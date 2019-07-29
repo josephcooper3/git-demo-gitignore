@@ -1,3 +1,6 @@
 Mac OS 10
 Windows 10
 Ubuntu
+OpenSUSE
+Fedora
+FreeBSD

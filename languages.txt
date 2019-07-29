@@ -1,3 +1,6 @@
 Ruby
 Javascript
 Java
+Python
+C++
+C#
