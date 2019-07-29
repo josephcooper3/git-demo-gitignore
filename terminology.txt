@@ -1,6 +1,0 @@
-Loops
-Arrays
-Objects
-Methods
-Strings
-Booleans
